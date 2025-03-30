@@ -1,0 +1,3 @@
+Obraz: stopped_vehicle_4_20250330_190004.jpg
+Rozpoznana tablica: WE 424LG
+Czas rozpoznania: 2025-03-30 19:00:09

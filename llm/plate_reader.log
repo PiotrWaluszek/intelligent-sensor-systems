@@ -1,0 +1,51 @@
+2025-03-30 18:56:32,691 - INFO - PlateReaderConnector zainicjalizowany
+2025-03-30 18:56:32,692 - INFO - Rozpoczęcie monitorowania folderu z obrazami
+2025-03-30 18:56:52,707 - INFO - Znaleziono 1 nowych obrazów do przetworzenia
+2025-03-30 18:56:52,707 - INFO - Przetwarzanie obrazu: stopped_vehicle_4_20250330_185650.jpg
+2025-03-30 18:56:52,719 - INFO - Weryfikacja pliku: 0.011 s
+2025-03-30 18:56:52,719 - INFO - Oryginalny rozmiar obrazu: 1284x664 pikseli, 0.17 MB
+2025-03-30 18:56:52,719 - INFO - Przeskalowanie obrazu: 1284x664 -> 800x413 (współczynnik: 0.623)
+2025-03-30 18:56:52,742 - INFO - Obraz zmniejszony z 0.17 MB do 0.05 MB w 0.023 s
+2025-03-30 18:56:52,742 - INFO - Nowy rozmiar obrazu: 800x413 pikseli
+2025-03-30 18:56:52,742 - INFO - Kodowanie obrazu do base64: 0.000 s
+2025-03-30 18:56:52,742 - INFO - Wysyłanie zapytania do OpenAI API...
+2025-03-30 18:56:53,573 - INFO - Czas odpowiedzi API: 0.831 s
+2025-03-30 18:56:53,573 - INFO - Całkowity czas rozpoznawania: 0.854 s
+2025-03-30 18:56:53,575 - INFO - Obraz stopped_vehicle_4_20250330_185650.jpg przeniesiony do processed_vehicles
+2025-03-30 18:56:53,575 - INFO - Rozpoznana tablica: WE 424LG
+2025-03-30 18:56:55,453 - INFO - Zatrzymywanie PlateReaderConnector
+2025-03-30 18:56:55,455 - INFO - Zatrzymywanie PlateReaderConnector
+2025-03-30 18:58:35,758 - INFO - PlateReaderConnector zainicjalizowany
+2025-03-30 18:58:35,759 - INFO - Rozpoczęcie monitorowania folderu z obrazami
+2025-03-30 18:58:55,781 - INFO - Znaleziono 1 nowych obrazów do przetworzenia
+2025-03-30 18:58:55,783 - INFO - Przetwarzanie obrazu: stopped_vehicle_4_20250330_185853.jpg
+2025-03-30 18:58:55,797 - INFO - Weryfikacja pliku: 0.014 s
+2025-03-30 18:58:55,798 - INFO - Oryginalny rozmiar obrazu: 1284x664 pikseli, 0.17 MB
+2025-03-30 18:58:55,798 - INFO - Przeskalowanie obrazu: 1284x664 -> 800x413 (współczynnik: 0.623)
+2025-03-30 18:58:55,817 - INFO - Obraz zmniejszony z 0.17 MB do 0.05 MB w 0.020 s
+2025-03-30 18:58:55,817 - INFO - Nowy rozmiar obrazu: 800x413 pikseli
+2025-03-30 18:58:55,818 - INFO - Kodowanie obrazu do base64: 0.001 s
+2025-03-30 18:58:55,818 - INFO - Wysyłanie zapytania do OpenAI API...
+2025-03-30 18:58:57,418 - INFO - Czas odpowiedzi API: 1.600 s
+2025-03-30 18:58:57,418 - INFO - Całkowity czas rozpoznawania: 1.621 s
+2025-03-30 18:58:57,420 - INFO - Obraz stopped_vehicle_4_20250330_185853.jpg przeniesiony do processed_vehicles
+2025-03-30 18:58:57,420 - INFO - Rozpoznana tablica: WE 424LG
+2025-03-30 18:58:58,434 - INFO - Zatrzymywanie PlateReaderConnector
+2025-03-30 18:58:58,436 - INFO - Zatrzymywanie PlateReaderConnector
+2025-03-30 18:59:47,606 - INFO - PlateReaderConnector zainicjalizowany
+2025-03-30 18:59:47,606 - INFO - Rozpoczęcie monitorowania folderu z obrazami
+2025-03-30 19:00:07,628 - INFO - Znaleziono 1 nowych obrazów do przetworzenia
+2025-03-30 19:00:07,629 - INFO - Przetwarzanie obrazu: stopped_vehicle_4_20250330_190004.jpg
+2025-03-30 19:00:07,641 - INFO - Weryfikacja pliku: 0.012 s
+2025-03-30 19:00:07,641 - INFO - Oryginalny rozmiar obrazu: 1284x664 pikseli, 0.17 MB
+2025-03-30 19:00:07,641 - INFO - Przeskalowanie obrazu: 1284x664 -> 800x413 (współczynnik: 0.623)
+2025-03-30 19:00:07,662 - INFO - Obraz zmniejszony z 0.17 MB do 0.05 MB w 0.021 s
+2025-03-30 19:00:07,662 - INFO - Nowy rozmiar obrazu: 800x413 pikseli
+2025-03-30 19:00:07,662 - INFO - Kodowanie obrazu do base64: 0.000 s
+2025-03-30 19:00:07,662 - INFO - Wysyłanie zapytania do OpenAI API...
+2025-03-30 19:00:09,277 - INFO - Czas odpowiedzi API: 1.614 s
+2025-03-30 19:00:09,277 - INFO - Całkowity czas rozpoznawania: 1.636 s
+2025-03-30 19:00:09,280 - INFO - Obraz stopped_vehicle_4_20250330_190004.jpg przeniesiony do processed_vehicles
+2025-03-30 19:00:09,280 - INFO - Rozpoznana tablica: WE 424LG
+2025-03-30 19:00:10,222 - INFO - Zatrzymywanie PlateReaderConnector
+2025-03-30 19:00:10,225 - INFO - Zatrzymywanie PlateReaderConnector
